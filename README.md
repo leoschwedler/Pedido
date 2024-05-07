@@ -1,14 +1,14 @@
-# Pedido de Namoro Interativo 💖
+# Pedido Interativo 💖
 
 ![GIF do Projeto](https://media1.tenor.com/m/8jTHYYROPogAAAAC/anime-love.gif)
 
 ## Descrição do Projeto
 
-Este projeto é uma página web interativa de pedido de namoro, desenvolvida utilizando HTML, CSS e JavaScript. O usuário é convidado a aceitar ou recusar o pedido clicando nos botões correspondentes. O botão "Não" adiciona um toque divertido ao se movimentar quando o mouse passa sobre ele.
+Este projeto é uma página web interativa de pedido, desenvolvida utilizando HTML, CSS e JavaScript. O usuário é convidado a aceitar ou recusar o pedido clicando nos botões correspondentes. O botão "Não" adiciona um toque divertido ao se movimentar quando o mouse passa sobre ele.
 
 ## Demonstração
 
-Veja o projeto em ação [aqui](https://leoschwedler.github.io/PedidoDeNamoro/).
+Veja o projeto em ação [aqui](https://leoschwedler.github.io/Pedido/).
 
 ## Como Executar
 
